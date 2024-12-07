@@ -1,4 +1,4 @@
-package org.psantos.demo.user_service.web;
+package org.psantos.demo.userservice.web;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.PostMapping;
