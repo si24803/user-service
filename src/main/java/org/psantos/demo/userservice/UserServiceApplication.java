@@ -1,4 +1,4 @@
-package org.psantos.demo.user_service;
+package org.psantos.demo.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

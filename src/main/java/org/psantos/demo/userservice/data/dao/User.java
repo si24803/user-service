@@ -1,4 +1,4 @@
-package org.psantos.demo.user_service.data.dao;
+package org.psantos.demo.userservice.data.dao;
 
 import lombok.Data;
 
