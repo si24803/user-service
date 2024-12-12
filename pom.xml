@@ -138,7 +138,7 @@
 				</executions>
 				<configuration>
 					<from>
-						<image>eclipse-temurin:17-alpine</image>
+						<image>eclipse-temurin:17-jre-alpine</image>
 					</from>
 					<to>
 						<image>${project.groupId}/${project.artifactId}:${project.version}</image>
